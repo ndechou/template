@@ -1,0 +1,13 @@
+* {
+    background-color: bisque;
+}
+
+#homeview {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    justify-content: center;
+    font-size: 30px;
+}
